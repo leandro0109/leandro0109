@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-Im Leandro, a computer programming student passionate about technology and software development 💻.
+Im Leandro, a computer programming student passionate about technology and software development.
  
 Currently finishing an EFA course (2000 hours) in Computer Programming at CINEL and looking for a Internship where I can apply my skills, gain real-world experience, and continue growing as a developer.
 
@@ -9,7 +9,9 @@ Currently finishing an EFA course (2000 hours) in Computer Programming at CINEL 
 # Technologies & Tools
 
 C#, C/C++, Java, Python, and T-SQL.
+
 Object-oriented programming (OOP), CRUD applications, database integration, and web development with JSP.
+
 Visual Studio, Visual Studio Code, Eclipse, SSMS, and Git/GitHub for version control.
 
 ---
