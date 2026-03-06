@@ -1,6 +1,6 @@
-# 👋 Hy there, I'm Leandro Fialho
+# 👋 Hey there
 
-💻 A Junior Developer passionate about technology and software development.
+💻 Im a computer programming student passionate about technology and software development.
 
 I am currently finishing an EFA course (2000 hours) in Computer Programming at CINEL and looking for a Internship where I can apply my skills, gain real-world experience, and continue growing as a developer.
 
@@ -50,7 +50,7 @@ I am currently finishing an EFA course (2000 hours) in Computer Programming at C
 
 # 🎓 Education
 
-**EFA – Computer Programming**
+**EFA – Computer Programming (2000 hours)**
 CINEL – Training Center for Electronics and Energy Industry
 
 Main topics:
