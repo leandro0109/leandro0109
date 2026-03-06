@@ -33,6 +33,9 @@ I am currently finishing an EFA course (2000 hours) in Computer Programming at C
 
 ---
 
+<details>
+<summary>Show more</summary>
+  
 # 📂 Main Projects
 
 ### C# CRUD Desktop Application
