@@ -34,7 +34,7 @@ Dynamic web pages using Java Server Pages
 
 ---
 
-# 🌐 Contact
+# Contacts
 
 📧 Email
 leandrofialho2000@gmail.com
@@ -45,5 +45,6 @@ https://www.linkedin.com/in/leandro-fialho-54059726a/
 💻 GitHub
 https://github.com/leandro0109
 
-
-Fun fact: I enjoy combining technology with creativity, from programming projects to designing objects with 3D printing.
+---
+# Fun Facts
+I enjoy combining technology with creativity, from programming projects to designing objects with 3D printing.
