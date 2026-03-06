@@ -20,7 +20,7 @@ Visual Studio,  Visual Studio Code,  Eclipse, SSMS,  and Git/GitHub for version 
 
 ### [Bank Application](https://github.com/leandro0109/BancoForms)
 
-C# Windows Forms application with full CRUD operations (Create, Read, Update, Delete), user access control, and PDF invoices generated for operations.
+C# Windows Forms application with full CRUD operations (Create, Read, Update, Delete), user access control, and PDF invoices generated for transactions.
 Includes database integration for efficient data management.
 
 <details>
