@@ -27,10 +27,9 @@ Includes database integration for efficient data management.
 <summary>Show more</summary>
  
 
-### [Java Web Application (JSP)](https://github.com/leandro0109/CelestialSystemJSP)
+### [Java Web Application](https://github.com/leandro0109/CelestialSystemJSP)
 
-Backend development using Java
-Dynamic web pages using Java Server Pages
+Backend development with full CRUD operations, database integration, and user access control, using Java Server Pages (JSP) for dynamic web pages.
 
 ---
 
