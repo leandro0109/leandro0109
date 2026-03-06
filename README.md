@@ -8,33 +8,25 @@ Currently finishing an EFA course (2000 hours) in Computer Programming at CINEL 
 
 # Technologies & Tools
 
-### Programming Languages
-
 C#, C/C++, Java, Python, and T-SQL.
-
-### Development
-
-Development:
 Object-oriented programming (OOP), CRUD applications, database integration, and web development with JSP.
-
-### Tools
-
 Visual Studio, Visual Studio Code, Eclipse, SSMS, and Git/GitHub for version control.
 
-<details>
-<summary>Show more</summary>
- 
 ---
 
-# Main Projects
+# My Favourite Projects
 
-### [C# CRUD Desktop Application] ()
+### [Bank CRUD Application](https://github.com/leandro0109/BancoForms)
 
 * Windows Forms application
 * Full CRUD operations (Create, Read, Update, Delete)
 * Database connection for data management
 
-### [Java Web Application (JSP)] (https://github.com/leandro0109/CelestialSystemJSP)
+<details>
+<summary>Show more</summary>
+ 
+
+### [Java Web Application (JSP)](https://github.com/leandro0109/CelestialSystemJSP)
 
 * Backend development using Java
 * Dynamic web pages using Java Server Pages
