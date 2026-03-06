@@ -50,30 +50,6 @@ Currently finishing an EFA course (2000 hours) in Computer Programming at CINEL 
 
 ---
 
-# Education
-
-**EFA – Computer Programming (2000 hours)**
-CINEL – Training Center for Electronics and Energy Industry
-
-Main topics:
-
-* Object-Oriented Programming
-* Software Development
-* Database integration
-* Web Development
-* Hardware and Software
-* Networking Fundamentals
-
----
-
-# Goals
-
-* Start my career as a Junior Software Developer
-* Gain professional experience through an internship
-* Continue learning modern development technologies and improving my skills
-
----
-
 # 🌐 Contact
 
 📧 Email
@@ -84,3 +60,6 @@ https://www.linkedin.com/in/leandro-fialho-54059726a/
 
 💻 GitHub
 https://github.com/leandro0109
+
+
+Fun fact: I enjoy combining technology with creativity, from programming projects to designing objects with 3D printing.
