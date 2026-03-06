@@ -8,11 +8,11 @@ Currently finishing an EFA course (2000 hours) in Computer Programming at CINEL 
 
 # Technologies & Tools
 
-C#, C/C++, Java, Python, and T-SQL.
+C#,  C/C++,  Java,  Python,  and T-SQL.
 
-Object-oriented programming (OOP), CRUD applications, database integration, and web development with JSP.
+Object-oriented programming (OOP),  CRUD applications,  database integration,  and web development with JSP.
 
-Visual Studio, Visual Studio Code, Eclipse, SSMS, and Git/GitHub for version control.
+Visual Studio,  Visual Studio Code,  Eclipse, SSMS,  and Git/GitHub for version control.
 
 ---
 
@@ -20,7 +20,7 @@ Visual Studio, Visual Studio Code, Eclipse, SSMS, and Git/GitHub for version con
 
 ### [Bank Application](https://github.com/leandro0109/BancoForms)
 
-Windows Forms application with full CRUD operations (Create, Read, Update, Delete), user access control, and PDF invoices generated for operations.
+C# Windows Forms application with full CRUD operations (Create, Read, Update, Delete), user access control, and PDF invoices generated for operations.
 Includes database integration for efficient data management.
 
 <details>
@@ -29,7 +29,7 @@ Includes database integration for efficient data management.
 
 ### [Java Web Application](https://github.com/leandro0109/CelestialSystemJSP)
 
-Backend development with full CRUD operations, database integration, and user access control, using Java Server Pages (JSP) for dynamic web pages.
+Java Backend development with full CRUD operations, database integration, and user access control, using Java Server Pages (JSP) for dynamic web pages.
 
 ---
 
