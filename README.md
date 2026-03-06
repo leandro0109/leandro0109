@@ -1,16 +1,84 @@
-## Hi there 👋
+# 👋 Hy there, I'm Leandro Fialho
 
-<!--
-**leandro0109/leandro0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A Junior Developer passionate about technology and software development.
 
-Here are some ideas to get you started:
+I am currently finishing an EFA course (2000 hours) in Computer Programming at CINEL and looking for a Internship where I can apply my skills, gain real-world experience, and continue growing as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 Technologies & Tools
+
+### Programming Languages
+
+* C#
+* Java
+* C/C++
+* TSQL
+* Python
+
+### Development
+
+* Object-Oriented Programming (OOP)
+* CRUD Applications
+* Database Integration
+* Web Development with JSP (Java Server Pages)
+
+### Tools
+
+* Visual Studio
+* Visual Studio Code
+* Eclipse
+* SSMS
+* Git & GitHub
+
+---
+
+# 📂 Main Projects
+
+### C# CRUD Desktop Application
+
+* Windows Forms application
+* Full CRUD operations (Create, Read, Update, Delete)
+* Database connection for data management
+
+### Java Web Application (JSP)
+
+* Backend development using Java
+* Dynamic web pages using Java Server Pages
+
+---
+
+# 🎓 Education
+
+**EFA – Computer Programming**
+CINEL – Training Center for Electronics and Energy Industry
+
+Main topics:
+
+* Object-Oriented Programming
+* Software Development
+* Database integration
+* Web Development
+* Hardware and Software
+* Networking Fundamentals
+
+---
+
+# 🎯 Goals
+
+* Start my career as a Junior Software Developer
+* Gain professional experience through an internship
+* Continue learning modern development technologies and improving my skills
+
+---
+
+# 🌐 Contact
+
+📧 Email
+leandrofialho2000@gmail.com
+
+💼 LinkedIn
+https://www.linkedin.com/in/leandro-fialho-54059726a/
+
+💻 GitHub
+https://github.com/leandro0109
