@@ -18,7 +18,7 @@ Visual Studio, Visual Studio Code, Eclipse, SSMS, and Git/GitHub for version con
 
 # My Favourite Projects
 
-### [Bank CRUD Application](https://github.com/leandro0109/BancoForms)
+### [Bank Application](https://github.com/leandro0109/BancoForms)
 
 Windows Forms application with full CRUD operations (Create, Read, Update, Delete), user access control, and PDF invoices generated for operations.
 Includes database integration for efficient data management.
@@ -47,4 +47,4 @@ https://github.com/leandro0109
 
 ---
 # Fun Facts
-I enjoy combining technology with creativity, from programming projects to designing objects with 3D printing.
+I enjoy combining technology with creativity, from programming projects to designing objects and 3D printing with fdm/resin and painting.
