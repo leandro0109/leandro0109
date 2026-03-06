@@ -20,9 +20,8 @@ Visual Studio, Visual Studio Code, Eclipse, SSMS, and Git/GitHub for version con
 
 ### [Bank CRUD Application](https://github.com/leandro0109/BancoForms)
 
-* Windows Forms application
-* Full CRUD operations (Create, Read, Update, Delete)
-* Database connection for data management
+Windows Forms application with full CRUD operations (Create, Read, Update, Delete), user access control, and PDF invoices generated for operations.
+Includes database integration for efficient data management.
 
 <details>
 <summary>Show more</summary>
@@ -30,8 +29,8 @@ Visual Studio, Visual Studio Code, Eclipse, SSMS, and Git/GitHub for version con
 
 ### [Java Web Application (JSP)](https://github.com/leandro0109/CelestialSystemJSP)
 
-* Backend development using Java
-* Dynamic web pages using Java Server Pages
+Backend development using Java
+Dynamic web pages using Java Server Pages
 
 ---
 
