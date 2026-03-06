@@ -10,29 +10,20 @@ Currently finishing an EFA course (2000 hours) in Computer Programming at CINEL 
 
 ### Programming Languages
 
-* C#, C/C++
-* Java
-* TSQL
-* Python
+C#, C/C++, Java, Python, and T-SQL.
 
 ### Development
 
-* Object-Oriented Programming (OOP)
-* CRUD Applications
-* Database Integration
-* Web Development with JSP (Java Server Pages)
-
-<details>
-<summary>Show more</summary>
+Development:
+Object-oriented programming (OOP), CRUD applications, database integration, and web development with JSP.
 
 ### Tools
 
-* Visual Studio
-* Visual Studio Code
-* Eclipse
-* SSMS
-* Git & GitHub
+Visual Studio, Visual Studio Code, Eclipse, SSMS, and Git/GitHub for version control.
 
+<details>
+<summary>Show more</summary>
+ 
 ---
 
 # Main Projects
