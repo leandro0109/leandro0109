@@ -6,7 +6,7 @@ Currently completing a **2000-hour EFA course in Computer Programming at CINEL**
 
 ---
 
-# 🚀 Technologies & Tools
+# Technologies & Tools
 
 ### Programming Languages
 C# • C/C++ • Java • Python • T-SQL
@@ -22,7 +22,7 @@ Visual Studio • Visual Studio Code • Eclipse • SSMS • Git • GitHub
 
 ---
 
-# ⭐ Featured Projects
+# My Favourite Projects
 
 ## 🏦 [Bank Application](https://github.com/leandro0109/BancoForms)
 
@@ -46,7 +46,7 @@ Java web application built with **JSP** featuring:
 
 ---
 
-# 📫 Contact Me
+# Contact Me
 
 📧 **Email**  
 leandrofialho2000@gmail.com  
