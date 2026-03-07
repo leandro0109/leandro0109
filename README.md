@@ -1,49 +1,64 @@
-# 👋 Hey there
+# 👋 Hey there!
 
-Im Leandro, a computer programming student passionate about technology and software development.
- 
-Currently finishing an EFA course (2000 hours) in Computer Programming at CINEL and looking for a Internship where I can apply my skills, gain real-world experience, and continue growing as a developer.
+Im Leandro, a Computer Programming Student passionate about technology and software development.
 
----
-
-# Technologies & Tools
-
-C#,  C/C++,  Java,  Python,  and T-SQL.
-
-Object-oriented programming (OOP),  CRUD applications,  database integration,  and web development with JSP.
-
-Visual Studio,  Visual Studio Code,  Eclipse, SSMS,  and Git/GitHub for version control.
+Currently completing a **2000-hour EFA course in Computer Programming at CINEL** and looking for an **internship opportunity** where I can apply my skills, gain real-world experience, and continue growing as a developer.
 
 ---
 
-# My Favourite Projects
+# 🚀 Technologies & Tools
 
-### [Bank Application](https://github.com/leandro0109/BancoForms)
+### Programming Languages
+C# • C/C++ • Java • Python • T-SQL
 
-C# Windows Forms application with full CRUD operations (Create, Read, Update, Delete), user access control, and PDF invoices generated for transactions.
-Includes database integration for efficient data management.
+### Development
+- Object-Oriented Programming (OOP)
+- CRUD Application Development
+- Database Integration
+- Web Development with **Java Server Pages (JSP)**
 
-<details>
-<summary>Show more</summary>
- 
-
-### [Java Web Application](https://github.com/leandro0109/CelestialSystemJSP)
-
-Java Backend development with full CRUD operations, database integration, and user access control, using Java Server Pages (JSP) for dynamic web pages.
+### Tools
+Visual Studio • Visual Studio Code • Eclipse • SSMS • Git • GitHub
 
 ---
 
-# Contacts
+# ⭐ Featured Projects
 
-📧 Email
-leandrofialho2000@gmail.com
+## 🏦 [Bank Application](https://github.com/leandro0109/BancoForms)
 
-💼 LinkedIn
+C# **Windows Forms** application featuring:
+
+- Full **CRUD operations** (Create, Read, Update, Delete)
+- **User authentication and access control**
+- **PDF invoice generation** for transactions
+- **Database integration** for secure data management
+
+---
+
+## 🌌 [Java Web Application](https://github.com/leandro0109/CelestialSystemJSP)
+
+Java web application built with **JSP** featuring:
+
+- Full **CRUD operations**
+- **User authentication and access control**
+- **Database integration**
+- Dynamic web pages using **Java Server Pages**
+
+---
+
+# 📫 Contact Me
+
+📧 **Email**  
+leandrofialho2000@gmail.com  
+
+💼 **LinkedIn**  
 https://www.linkedin.com/in/leandro-fialho-54059726a/
 
-💻 GitHub
+💻 **GitHub**  
 https://github.com/leandro0109
 
 ---
-# Fun Facts
-I enjoy combining technology with creativity, from programming projects to designing objects and 3D printing with fdm/resin and painting.
+
+# 🎨 Fun Fact
+
+Besides programming, I enjoy combining **technology and creativity**, especially designing objects and **3D printing with FDM and resin**, as well as painting and finishing models.
