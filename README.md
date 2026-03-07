@@ -1,60 +1,49 @@
-# 👋 Hey there!
+# 👋 Hey there
 
-Im Leandro, a Computer Programming Student passionate about technology and software development.
-
-Currently completing a **2000-hour EFA course in Computer Programming at CINEL** and looking for an **internship opportunity** where I can apply my skills, gain real-world experience, and continue growing as a developer.
+Im Leandro, a computer programming student passionate about technology and software development.
+ 
+Currently finishing an EFA course (2000 hours) in Computer Programming at CINEL and looking for a Internship where I can apply my skills, gain real-world experience, and continue growing as a developer.
 
 ---
 
 # Technologies & Tools
 
-### Programming Languages
-C# • C/C++ • Java • Python • T-SQL
+C#,  C/C++,  Java,  Python,  and T-SQL.
 
-### Tools
-Visual Studio • Visual Studio Code • Eclipse • SSMS • Git • GitHub
+Object-oriented programming (OOP),  CRUD applications,  database integration,  and web development with JSP.
+
+Visual Studio,  Visual Studio Code,  Eclipse, SSMS,  and Git/GitHub for version control.
 
 ---
 
 # My Favourite Projects
 
-## 🏦 [Bank Application](https://github.com/leandro0109/BancoForms)
+### [Bank Application](https://github.com/leandro0109/BancoForms)
 
-C# **Windows Forms** application featuring:
+C# Windows Forms application with full CRUD operations (Create, Read, Update, Delete), user access control, and PDF invoices generated for transactions.
+Includes database integration for efficient data management.
 
-- Full **CRUD** (Create, Read, Update, Delete)
-- **User authentication and access control**
-- **PDF invoice generation** for transactions
-- **Database integration** for secure data management
+<details>
+<summary>Show more</summary>
+ 
 
-<details> <summary>Show more</summary>
-  
----
+### [Java Web Application](https://github.com/leandro0109/CelestialSystemJSP)
 
-## 🌌 [Java Web Application](https://github.com/leandro0109/CelestialSystemJSP)
-
-Java web application built with **JSP** featuring:
-
-- Full **CRUD operations**
-- **User authentication and access control**
-- **Database integration**
-- Dynamic web pages using **Java Server Pages**
+Java Backend development with full CRUD operations, database integration, and user access control, using Java Server Pages (JSP) for dynamic web pages.
 
 ---
 
-# Contact Me
+# Contacts
 
-📧 **Email**  
-leandrofialho2000@gmail.com  
+📧 Email
+leandrofialho2000@gmail.com
 
-💼 **LinkedIn**  
+💼 LinkedIn
 https://www.linkedin.com/in/leandro-fialho-54059726a/
 
-💻 **GitHub**  
+💻 GitHub
 https://github.com/leandro0109
 
 ---
-
-# 🎨 Fun Fact
-
-Besides programming, I enjoy combining **technology and creativity**, especially designing objects and **3D printing with FDM and resin**, as well as painting and finishing models.
+# Fun Facts
+Besides coding, I enjoy combining **technology and creativity**, especially designing objects and **3D printing with FDM and resin**, as well as painting and finishing models.
