@@ -11,12 +11,6 @@ Currently completing a **2000-hour EFA course in Computer Programming at CINEL**
 ### Programming Languages
 C# • C/C++ • Java • Python • T-SQL
 
-### Development
-- Object-Oriented Programming (OOP)
-- CRUD Application Development
-- Database Integration
-- Web Development with **Java Server Pages (JSP)**
-
 ### Tools
 Visual Studio • Visual Studio Code • Eclipse • SSMS • Git • GitHub
 
@@ -28,11 +22,13 @@ Visual Studio • Visual Studio Code • Eclipse • SSMS • Git • GitHub
 
 C# **Windows Forms** application featuring:
 
-- Full **CRUD operations** (Create, Read, Update, Delete)
+- Full **CRUD** (Create, Read, Update, Delete)
 - **User authentication and access control**
 - **PDF invoice generation** for transactions
 - **Database integration** for secure data management
 
+<details> <summary>Show more</summary>
+  
 ---
 
 ## 🌌 [Java Web Application](https://github.com/leandro0109/CelestialSystemJSP)
