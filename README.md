@@ -18,7 +18,7 @@ Visual Studio,  Visual Studio Code,  Eclipse, SSMS,  and Git/GitHub for version 
 
 # My Favourite Projects
 
-### [Bank Application](https://github.com/leandro0109/BancoForms v2)
+### [Bank Application](https://github.com/leandro0109/BancoForms-v2)
 
 C# desktop application (WinForms) with database connectivity for banking management. It includes customer and accounts management, and financial transactions (deposits, withdrawals). The project focuses on a modular architecture (UI, Services, Models) and features automatic PDF receipt generation after every transaction.
 
