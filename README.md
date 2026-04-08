@@ -10,7 +10,7 @@ Currently finishing an EFA course (2000 hours) in Computer Programming at CINEL 
 
 C#,  C/C++,  Java,  Python,  and T-SQL.
 
-Object-oriented programming (OOP),  CRUD applications,  database integration,  and web development with JSP.
+Object-oriented programming (OOP),  CRUD applications,  database integration,  and web development with JSP and ASP.net Core MVC.
 
 Visual Studio,  Visual Studio Code,  Eclipse, SSMS,  and Git/GitHub for version control.
 
